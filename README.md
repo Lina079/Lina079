@@ -2,16 +2,16 @@
 
 💻 **Full Stack Web Developer Student** en [TripleTen](https://tripleten.com/)  
 📍 Málaga, España  
-🎯 Apasionada por el desarrollo **backend** y la construcción de soluciones prácticas que impacten positivamente.  
-🌱 Actualmente aprendiendo **Node.js, Express, React y Python**.  
+🎯 Apasionada por aprender, construir proyectos y crecer en el mundo del desarrollo de software.  
+🌱 Actualmente trabajando con **JavaScript, React, Node.js, Express y Python**.  
 
 ---
 
 ## 🚀 Sobre mí
-- 🎓 En formación como **Full Stack Developer** con experiencia en proyectos frontend y backend.  
-- ⚡ Me interesa especialmente el **backend**, la arquitectura de software y las bases de datos.  
-- 🌍 Buscando oportunidades en el mundo tech en España y de manera remota.  
-- ✨ Creo que la programación es una herramienta para **transformar ideas en realidad**.  
+- 🎓 En formación como **Desarrolladora Full Stack** con proyectos reales en frontend y backend.  
+- 🛠️ Abierta a oportunidades en **cualquier área del desarrollo web**.  
+- 🌍 Buscando oportunidades en el mundo tech en España y en entornos **remotos**.  
+- ✨ Me motiva usar la tecnología para **resolver problemas reales**.  
 
 ---
 
@@ -24,16 +24,16 @@
 
 ## 📌 Proyectos Destacados
 🔹 [**web_project_around_react**](https://github.com/Lina079/web_project_around_react) – Proyecto con **React** y manejo de estados.  
-🔹 [**web_project_around_express**](https://github.com/Lina079/web_project_around_express) – Backend con **Express**.  
-🔹 [**ATM**](https://github.com/Lina079/ATM) – Mis primeros pasos con **Python**.  
-🔹 [**retro_collection**](https://github.com/Lina079/retro_collection) – App en **PyQt** para gestión de colecciones.  
+🔹 [**web_project_around_express**](https://github.com/Lina079/web_project_around_express) – API REST con **Express**.  
+🔹 [**ATM**](https://github.com/Lina079/ATM) – Proyecto en **Python** para simular un cajero automático.  
+🔹 [**retro_collection**](https://github.com/Lina079/retro_collection) – App en **PyQt** para gestionar colecciones.  
 
 ---
 
 ## 📈 Mis estadísticas en GitHub
-![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lina079&show_icons=true&theme=radical)  
+![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lina079&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina079&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina079&layout=compact&theme=tokyonight)
 
 ---
 
@@ -42,19 +42,4 @@
 📧 **linacastror079@gmail.com**
 
 ---
-✨ *"Cada línea de código es un paso más hacia el futuro que imagino."*  
-
-<!--
-**Lina079/Lina079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *"El aprendizaje constante es mi motor; cada proyecto es una oportunidad para crecer."*  
