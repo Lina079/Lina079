@@ -1,3 +1,5 @@
+![Banner](assets/GitHub-Lina.phg)
+
 # 👋 ¡Hola, soy Lina Castro!
 
 💻 **Full Stack Web Developer Student** en [TripleTen](https://tripleten.com/)  
