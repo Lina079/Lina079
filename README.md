@@ -38,7 +38,7 @@
 ---
 
 ## 🌐 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-castro-XXXX)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-castro079/)  
 📧 **linacastror079@gmail.com**
 
 ---
